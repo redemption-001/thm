@@ -3,12 +3,25 @@
 ## 1. Secure Software Development
 ### 1.1 Introduction to DevSecOps
 Introduction 
-DevOps: A New Hope 
+**DevOps: A New Hope**
+Evolução do devops
+![1](assets/intro_devsecops.png)
+
 The Infinite Loop
+![2](assets/intro_devsecops_02.png)
+
 Shifting Left 
+![3](assets/intro_devsecops_03.png)
+
 DevSecOps: Security Strikes Back
+![4](assets/intro_devsecops_04.png)
+
 DevSecOps Culture
+![5](assets/intro_devsecops_05.png)
+
 Exercise: Fuel Trouble
+![6](assets/intro_devsecops_06.png)
+
 ### 1.2 SDLC
 Introduction
 SDLC
