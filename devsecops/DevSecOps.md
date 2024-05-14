@@ -84,14 +84,31 @@ Introduction
 
 ### 1.3 SSDLC
 Introduction
-What is SSDLC?
-Implementing SSDLC
-Risk Assessment
-Threat Modelling
-Secure Coding
-Security Assessments
-SSDLC Methodologies
-Secure Space Lifecycle
+
+**What is SSDLC?**
+![13](assets/SSDLC_01.png)
+
+**Implementing SSDLC**
+![14](assets/SSDLC_02.png)
+
+**Risk Assessment**
+![15](assets/SSDLC_03.png)
+
+**Threat Modelling**
+![16](assets/SSDLC_04.png)
+
+**Secure Coding**
+![17](assets/SSDLC_05.png)
+
+**Security Assessments**
+![18](assets/SSDLC_06.png)
+
+**SSDLC Methodologies**
+![19](assets/SSDLC_07.png)
+
+**Secure Space Lifecycle**
+![20](assets/SSDLC_08.png)
+![21](assets/SSDLC_09.png)
 
 
 ## 2. Security of the Pipeline
