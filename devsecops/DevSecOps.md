@@ -2,21 +2,58 @@
 
 ## 1. Secure Software Development
 ### 1.1 Introduction to DevSecOps
+
 Introduction 
 **DevOps: A New Hope**
-Evolução do devops
+
+História do devops
+- waterfall:
+  - modelo de gerenciamento de projetos da década de 70, cada etapa é finalizada antes de dar início a próxima.
+  - análise -> design -> implementação -> teste manutenção
+- agile:
+  - criado no início dos anos 2000 como forma de lidar com os problemas do modelo waterfall
+  - permite mais flexibilidade e adaptalidade com foco em indivíduos e processos, software funcionando, colaboração com o cliente e resposta a mudanças
+  - ao invés de processos sequenciais, a evolução do projeto passa por iterações que se repetem ao longo do desenvolvimento
+- devops
+  - surge como forma de lidar com os problemas que ainda existiam no modelo ágil
+  - foco na automação e integração de sistemas, com a integração entre todos os departamentos (QA+sysadmins+desenvolvedores). Ex.: agora os desenvolvedores estão envolvidos com deploys
+ 
 ![1](assets/intro_devsecops.png)
 
-The Infinite Loop
+**The Infinite Loop**
+- devops é visualizado como um loop infinito com todas as fases:
+  - plan -> code -> build -> test -> release -> deploy -> operate -> monitor -> plan -> ...
+- processos e ferramentas auxiliares do devsecops:
+  - CI/CD: Continuous Integration and Continuous Deployment
+  - Infrastructure as Code (IaC): gerencia e provisiona infraestrutura através de código e automação
+  - Gerenciamento de configuração: gerencia o estado da infraestrutura e aplica as mudanças
+  - Orquestração: automação de workflows
+  - Monitoramento: coleta de dados sobre desempenho e estabilidade de serviços e infraestrutura
+  - Microserviços: arquitetura que quebra uma aplicação em pedaços menores, tem como benefício a flexibilidade se for necessário escalar, reduzir escalabilidade e mais opções de escolha de tecnologias entre microserviços
+
 ![2](assets/intro_devsecops_02.png)
 
-Shifting Left 
+**Shifting Left**
+
+- tradicionalmente os testes de segurança eram implantados no final do ciclo de desenvolvimento
+- shifting left: implementar medidas de segurança nas etapas iniciais do desenvolvimento de software reduz o custos de remediação, constrói confiança, melhora a segurança e a qualidade do produto.
+
 ![3](assets/intro_devsecops_03.png)
 
-DevSecOps: Security Strikes Back
+**DevSecOps: Security Strikes Back**
+  - reduz o risco, auxiliando na prevenção de danos na reputação da marca, perdas financeiras relacionadas a incidentes de segurança e facilita a auditoria e monitoramento
+  - desafios do devsecops:
+    - silos de segurança: é comum que times de segurança sejam deixados de fora em processos de devsecops e serem vistos como uma entidade separada, pessoas especializadas que podem apenas manter e lidar práticas de segurança e como bloqueadores. A melhor prática é ter essas responsabilidades entre todos os membros do time ao invés de ter um engenheiro de segurança especializado
+    - falta de visibilidade e priorização
+    - processos rigorosos para todas as tarefas sem considerar o nível de risco
+
 ![4](assets/intro_devsecops_04.png)
 
-DevSecOps Culture
+**DevSecOps Culture**
+- promover autonomia dos times: é uma forma de fazer a segurança escalável sem depender de um profissional de segurança
+- visibilidade e transparência: é uma forma de dar suporte a times em entender risco e educar sobre falhas de segurança
+- flexibilidade devido a compreensão e empatia: fator chave para promover a segurança no processo de segurança
+
 ![5](assets/intro_devsecops_05.png)
 
 Exercise: Fuel Trouble
