@@ -75,8 +75,13 @@ Introduction
 ![10](assets/SDLC_04.png)
 
 **DevOps Metrics**
+![10](assets/SDLC_05.png)
 
-Production of the Droids
+**Production of the Droids**
+![11](assets/SDLC_06.png)
+![12](assets/SDLC_07.png)
+
+
 ### 1.3 SSDLC
 Introduction
 What is SSDLC?
