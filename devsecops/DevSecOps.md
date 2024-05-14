@@ -61,11 +61,21 @@ Exercise: Fuel Trouble
 
 ### 1.2 SDLC
 Introduction
-SDLC
-SDLC Phases Part 1
-SDLC Phases Part 2
-Keep CALMS
-DevOps Metrics
+
+**SDLC**
+![7](assets/SDLC_01.png)
+
+**SDLC Phases Part 1**
+![8](assets/SDLC_02.png)
+
+**SDLC Phases Part 2**
+![9](assets/SDLC_03.png)
+
+**Keep CALMS**
+![10](assets/SDLC_04.png)
+
+**DevOps Metrics**
+
 Production of the Droids
 ### 1.3 SSDLC
 Introduction
