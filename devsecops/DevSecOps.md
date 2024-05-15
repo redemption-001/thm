@@ -113,6 +113,33 @@ Introduction
 
 ## 2. Security of the Pipeline
 ### 2.1 Intro to Pipeline Automation
+
+Introduction
+
+**DevOps Pipelines Explained**
+![22](assets/intro_pipeline_01.png)
+
+**Source Code and Version Control**
+![23](assets/intro_pipeline_02.png)
+
+**Dependency Management**
+![24](assets/intro_pipeline_03.png)
+
+**Automated Testing**
+![25](assets/intro_pipeline_04.png)
+
+**Continuous Integration and Delivery**
+![26](assets/intro_pipeline_05.png)
+
+**Environments**
+![27](assets/intro_pipeline_06.png)
+
+**Challenge**
+![28](assets/intro_pipeline_07.png)
+![29](assets/intro_pipeline_08.png)
+
+Conclusion
+
 ### 2.2 Source Code Security
 - paid content
 ### 2.3 CI/CD and Build Security
