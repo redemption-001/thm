@@ -157,6 +157,27 @@ Conclusion
 
 ## 4. Container Security
 ### 4.1 Intro to Containerisation
+
+Introduction
+
+**What is Containerisation**
+![30](assets/intro_container_01.png)
+
+**Introducing Docker**
+![31](assets/intro_container_02.png)
+
+**The History of Docker**
+![32](assets/intro_container_03.png)
+
+**The Benefits & Features of Docker**
+
+**How does Containerisation Work?**
+![33](assets/intro_container_04.png)
+
+**Practical**
+![34](assets/intro_container_05.png)
+![35](assets/intro_container_06.png)
+
 ### 4.2 Intro to Docker
 ### 4.3 Intro to Kubernetes
 - paid content
