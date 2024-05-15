@@ -179,6 +179,32 @@ Introduction
 ![35](assets/intro_container_06.png)
 
 ### 4.2 Intro to Docker
+Introduction
+
+**Basic Docker Syntax**
+![36](assets/docker_01.png)
+
+**Running Your First Container**
+![37](assets/docker_02.png)
+
+**Intro to Dockerfiles**
+![38](assets/docker_03.png)
+
+**Intro to Docker Compose**
+![39](assets/docker_04.png)
+
+**Intro to the Docker Socket**
+![40](assets/docker_05.png)
+
+**Practical**
+![41](assets/docker_06.png)
+`https://10-10-218-251.p.thmlabs.com/`
+`Congrats! Have a flag: THM{WEBSERVER_CONTAINER}`
+
+![42](assets/docker_07.png)
+![43](assets/docker_08.png)
+![44](assets/docker_09.png)
+
 ### 4.3 Intro to Kubernetes
 - paid content
 ### 4.4 Container Vulnerabilities
