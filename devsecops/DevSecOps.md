@@ -215,6 +215,21 @@ Introduction
 
 ## 5. Infrastructure as Code
 ### 5.1 Intro to IaC
+Introduction
+
+**IaC - The Concept**
+![45](assets/iac_01.png)
+
+**IaC - The Tools Part 1**
+![46](assets/iac_02.png)
+
+**IaC - The Tools Part 2**
+**Infrastructure as Code Lifecycle**
+**Virtualisation & IaC**
+**On-Prem IaC vs. Cloud-Based IaC**
+**IaC - The Final Push**
+
+
 ### 5.2 On-Premises IaC
 - paid content
 ### 5.3 Cloud-based IaC
